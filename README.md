@@ -3,7 +3,7 @@
 1. Клонировать указанный репозиторий.
 
 ```{git}
-git clone "github.com/astafiev-rustam/Practice7"
+git clone https://github.com/astafiev-rustam/Practice7
 ```
 
 2. Выполнить установку необходимых пакетов через npm.
